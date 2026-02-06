@@ -121,5 +121,5 @@ lib/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app-flutter.git
+git clone (https://github.com/niwirupasinghe/weather-app-flutter)
 cd weather-app-flutter
