@@ -51,4 +51,4 @@ app.*.map.json
 # Windows
 Thumbs.db
 
-# API Keys (IMPORTANT - Don't push API keys!)
+# API Configuarations (contains sensitive API key)
